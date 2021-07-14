@@ -16,7 +16,7 @@ Based on the existing NetGuard Firewall, our proyect is to create a new alternat
 
 **Screenshots**
 
-![Screenshot_1620941279](https://user-images.githubusercontent.com/47388246/125693519-6d8f5a9f-860e-4ee2-a7cd-723894a93dc1.png)
+
 
 
 
