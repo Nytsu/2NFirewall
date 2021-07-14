@@ -16,7 +16,7 @@ Based on the existing NetGuard Firewall, our proyect is to create a new alternat
 
 **Screenshots**
 
-![Screenshot_1620941116](https://user-images.githubusercontent.com/47388246/125693062-6e407c30-f788-4575-92aa-f3776def3602.png)
-![Screenshot_1620941122](https://user-images.githubusercontent.com/47388246/125693124-b55ca56f-dbc3-45e1-bc2f-2b75daf30853.png)
-![button on](https://user-images.githubusercontent.com/47388246/125693144-5813fdae-6130-4355-9c96-d6f533fc93cc.JPG)
-![Screenshot_1620941279](https://user-images.githubusercontent.com/47388246/125693169-92b59410-f9a7-47a5-bcab-7794168e7b46.png)
+![Screenshot_1620941279](https://user-images.githubusercontent.com/47388246/125693519-6d8f5a9f-860e-4ee2-a7cd-723894a93dc1.png)
+
+
+
